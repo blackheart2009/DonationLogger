@@ -1,10 +1,10 @@
 module.exports = {
-  apiKey: '',
-  discordToken: '',
+  apiKey: '6d8cyngj',
+  discordToken: 'NTczMzUyNjMyNDcxNTE5MjMy.XMpmag.hx4mK_fJ8xZ0ogic0ZuFzjCqc4s',
   clans: [
     {
-      tag: '',
-      channelID: '',
+      tag: '#L2RJC0CV',
+      channelID: '571162554911555584',
       color: 3447003
     }
   ],
