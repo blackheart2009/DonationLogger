@@ -5,7 +5,9 @@
  *  - discord.js
  *  - request-promise
  */
-
+/*jshint -W119 */
+/*jshint -W104 */
+/*jshint -W004 */
 var discord          = require('discord.js');
 var client           = new discord.Client();
 var rp               = require('request-promise');
