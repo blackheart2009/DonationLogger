@@ -1,5 +1,5 @@
 # DonationLogger
-By Jim e
+By Blackheart
 
 Logs Clash of Clans donations to discord.
 
