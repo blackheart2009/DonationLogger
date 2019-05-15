@@ -1,5 +1,5 @@
 module.exports = {
-  apiKey: '',
+  apiKey: 'https://api.clashofclans.com/v1',
   discordToken: 'NTczMzUyNjMyNDcxNTE5MjMy.XNtxGg.Rh46b1GRPRhIqsaRKDLgANhneKE',
   clans: [
     {
