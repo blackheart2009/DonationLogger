@@ -14,8 +14,8 @@
   },
   "homepage": "https://github.com/Jime86/DonationLogger",
   "dependencies": {
-    "discord.js": "^11.0.0",
-    "request": "^2.81.0",
-    "request-promise": "^4.2.0"
+    "discord.js": "^11.5.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
   }
 }
